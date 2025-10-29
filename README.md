@@ -6,7 +6,7 @@
 - **Dataset**: MNIST (60k train / 10k test handwritten digits 0-9).
 - **Model**: Convolutional Neural Network (CNN) built with **TensorFlow/Keras**.
 - **Results**: **99.2% Test Accuracy**! 🔥
-- **Live Demo**: [View Notebook](https://nbviewer.jupyter.org/github/YOUR_USERNAME/Handwritten-Digit-Recognition-CNN/blob/main/Handwritten_Digit_Recognition.ipynb)
+- **Live Demo**: [View Notebook](https://nbviewer.jupyter.org/github/GargiNagpure/Handwritten-Digit-Recognition-CNN/blob/main/Handwritten_Digit_Recognition.ipynb)
 
 ## 📊 Key Highlights
 | Metric          | Value     |
